@@ -1,0 +1,1 @@
+# create security group for the application load balancer
